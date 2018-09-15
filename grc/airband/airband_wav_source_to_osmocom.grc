@@ -46,7 +46,7 @@
     </param>
     <param>
       <key>id</key>
-      <value>airband_wav_to_osmocom</value>
+      <value>airband_wav_to_osmocom_sink</value>
     </param>
     <param>
       <key>max_nouts</key>
